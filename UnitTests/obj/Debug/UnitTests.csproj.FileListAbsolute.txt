@@ -1,0 +1,8 @@
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Dumitru\Desktop\unit-test-example-master\UnitTests\obj\Debug\UnitTests.pdb
